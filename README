@@ -21,4 +21,4 @@ country_name = GetUserCountry.country_name #returns country name of user
 country_code = GetUserCountry.country_code #returns country code of user
 
 
-Copyright (c) 2010 [name of plugin creator], released under the MIT license
+Copyright (c) 2010 [Ademar Tutor], released under the MIT license
