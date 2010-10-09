@@ -1,13 +1,24 @@
 GetUserCountry
 ==============
 
-Introduction goes here.
+This is a simple Rails 3 plugin which get's the user's country name and country code.
+
+Requirements:
+
+1. Add to the Gemfile:
+   gem 'carmen'
+   gem 'hostip'
+
+
+
+
 
 
 Example
 =======
 
-Example goes here.
+country_name = GetUserCountry.country_name #returns country name of user
+country_code = GetUserCountry.country_code #returns country code of user
 
 
 Copyright (c) 2010 [name of plugin creator], released under the MIT license
