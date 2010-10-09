@@ -1,7 +1,7 @@
 GetUserCountry
 ==============
 
-This is a simple Rails 3 plugin which get's the user's country name and country code.
+This is a simple Rails 3 plugin which gets the user's country name and country code.
 
 Requirements:
 
